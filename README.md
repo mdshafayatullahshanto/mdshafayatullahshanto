@@ -24,7 +24,9 @@
 <div align="center">
 
 Mechanical Engineer with a passion for engineering design, product development, and technology-driven solutions. Professional background spans **Mechanical Design, Industrial Product Development, CAD Modeling, Engineering Documentation, PLM, and MEP Engineering** — including HVAC, Fire Protection, and Plumbing Systems.
+
 Experienced in delivering precision-focused, standards-compliant solutions across multidisciplinary projects. Skilled in modern CAD technologies and engineering workflows, with a consistent focus on efficiency, reliability, and measurable value for organizations and end users.
+
 Driven by continuous learning and practical problem-solving — particularly in **digital engineering, AI-assisted workflows, engineering automation, and data-driven design** — to improve decision-making, optimize processes, and accelerate product development outcomes.
 
 </div>
