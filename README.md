@@ -70,9 +70,11 @@ A structured engineering design methodology that emphasizes precision, thorough 
 
 <div align="center">
 
-For Collaboration, academic inquiries or Professional Opportunities
+Open to professional opportunities and technical collaborations in Mechanical Design, Product Development, CAD Technologies, PLM, and MEP Engineering.
 <br/>
-My contact links are provided below — feel free to reach out and connect.
+Dedicated to contributing to innovative projects, collaborating with multidisciplinary teams, and delivering reliable engineering solutions that create lasting value.
+<br/>
+Feel free to connect through the links below. Looking forward to new challenges, impactful projects, and opportunities to make a meaningful contribution.
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mshanto.me@gmail.com)
