@@ -6,10 +6,10 @@
   <a href="https://mail.google.com/mail/?view=cm&to=mshanto.me@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.https://www.linkedin.com/in/md-shafayat-ullah-shanto/">
+  <a href="https://www.linkedin.com/in/md-shafayat-ullah-shanto/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-    <a href="https://mdshafayatullahshanto.github.io/">
+  <a href="https://mdshafayatullahshanto.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://wa.me/8801572915530">
@@ -82,7 +82,7 @@ My contact links are provided below — feel free to reach out and connect.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mshanto.me@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shafayat-ullah-shanto/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mdshafayatullahshanto.github.io/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdshafayatullahshanto)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Md.ShafayatUllahShanto)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801572915530)
 
 </div>
@@ -94,14 +94,12 @@ My contact links are provided below — feel free to reach out and connect.
 <div align="center">
   <br/>
 
-  <!-- GitHub Streak -->
   <p>
     <a href="https://github.com/mdshafayatullahshanto">
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mdshafayatullahshanto&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     </a>
   </p>
   
-  <!-- GitHub Stats and Top Languages with Theme Support -->
   <br/>
   <picture>
     <source 
@@ -123,7 +121,6 @@ My contact links are provided below — feel free to reach out and connect.
       alt="Top Languages" />
   </picture>
 
-  <!-- GitHub Contribution Graph -->
   <br/><br/>
   <p>
     <a href="https://github.com/mdshafayatullahshanto">
