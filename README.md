@@ -132,15 +132,13 @@ My contact links are provided below — feel free to reach out and connect.
 
 <div align="center">
 
-My favorite software is SolidWorks — and no, I don't just use it to make things look cool in 3D.
+SolidWorks is my go-to tool for transforming ideas into practical, functional designs.
 
-I genuinely enjoy the moment a complex assembly fits together perfectly — good engineering just feels right.
+Simulation failures don't frustrate me—they reveal opportunities to improve.
 
-Debugging a simulation feels like solving a mystery — except I'm both the analyst and the one who set the wrong boundary condition.
+If a task is repetitive, I'll probably automate it.
 
-I once spent half a day automating a repetitive CAD task — and honestly, it was absolutely worth it.
-
-I often find myself talking to design problems more than people — and surprisingly, the drawings respond much better.
+Great design lives at the intersection of creativity, precision, and problem-solving. Geometry keeps it honest.
 
 </div>
 
