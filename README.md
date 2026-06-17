@@ -51,7 +51,7 @@ Driven by continuous learning and practical problem-solving — particularly in 
 
 ---
 
-<h1 align="center"> My Engineering Approach </h1>
+<h1 align="center"> My Design Approach </h1>
 
 <div align="center">
 
